@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+
+        <loc>https://andreakamens.com/</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>1.00</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/index.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/about.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/offeringsandaudiences.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/createyourprogram.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/Calendar.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/Video.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/recentwork.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+    <url>
+
+        <loc>https://andreakamens.com/StorySpace.html</loc>
+
+        <lastmod>2020-12-31T23:17:03+00:00</lastmod>
+
+        <priority>0.80</priority>
+
+    </url>
+
+</urlset>
