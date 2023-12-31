@@ -116,10 +116,6 @@ function navigateToYSSMoreInfo2() {
   window.open(url, "_blank");
 }
 
-function openYSSPdf() {
-  const url = "./images/ysst-flyer-3.pdf";
-  window.open(url, "_blank");
-}
 function navigateToGetTickets() {
   const url =
     "https://us02web.zoom.us/j/84817669400?pwd=VElZOWNUWGdLTytJeWY2UXVpUXZ5QT09";
