@@ -1520,13 +1520,20 @@ iframe {
 }
 .assa-img {
   display: block;
-  margin: 40px auto;
-  width: 100%;
+  border-radius: 50%;
 }
 
 .assa-copy {
   position: relative;
   margin: 40px auto;
+}
+
+.assa-container {
+  padding-left: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
 }
 
 @media (max-width: 1200px) {
