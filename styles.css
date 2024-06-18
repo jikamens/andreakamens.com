@@ -93,16 +93,14 @@ h2 {
   transition: all 0.5s ease;
   z-index: 10;
   background: #ce6d46;
-  width: 410px;
+  width: 460px;
   max-width: 100%;
-  padding: 50px;
-  padding-top: 8px;
   height: 100vh;
   min-height: 1000px;
   padding-top: 100px;
   top: 0px;
   right: 0;
-  padding-right: 78px;
+  padding-right: 40px;
   padding-left: 15px;
   -webkit-box-shadow: 2px 22px 20px 14px rgba(0, 0, 0, 0.38);
   -moz-box-shadow: 2px 22px 20px 14px rgba(0, 0, 0, 0.38);
@@ -140,8 +138,12 @@ ul {
   font-size: 2rem;
 }
 
+.menu-item {
+  transition: all 0.3s ease;
+}
+
 .menu-item:hover {
-  transform: scale(1.1) translateX(-4%);
+  transform: scale(1.02) translateX(-4%);
 }
 .menu-link:hover {
   color: white;
