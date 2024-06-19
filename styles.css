@@ -957,6 +957,8 @@ ul {
   max-width: 80%;
   letter-spacing: 1px;
   color: #ce6d46;
+
+  transition: all 0.2s ease-in-out;
 }
 
 .contact-link {
@@ -965,8 +967,9 @@ ul {
 
 .form-btn:hover {
   transform: scale(1.1);
-  transition: all 0.2s ease-in-out;
-  color: #2d5870;
+  color: #b5603e;
+  border-color: #b5603e;
+  background-color: #8cbdd7;
 }
 
 #mailForm {
@@ -983,6 +986,7 @@ ul {
   height: 400px;
   margin-top: 100px;
   margin-bottom: 100px;
+  overflow-x: scroll;
 }
 
 .swiper-img {
