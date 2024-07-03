@@ -1132,6 +1132,7 @@ ul {
   flex-wrap: wrap;
   justify-content: center;
   gap: 70px;
+  padding: 80px;
 }
 
 .learn-more-sections {
@@ -1152,6 +1153,7 @@ ul {
 
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  background-color: #97cbe8;
 }
 
 .learn-more-sections:hover {
@@ -1159,32 +1161,12 @@ ul {
   color: #ce6d46;
 }
 
-#learn-more-section-1 {
-  background-color: #97cbe8;
-}
-
-#learn-more-section-2 {
-  background-color: #4f90bf;
-}
-
-#learn-more-section-3 {
-  background-color: #10799b;
-}
-
-#learn-more-section-4 {
-  background-color: #ce6d46;
-}
-
-#learn-more-section-5 {
-  background-color: #80acbb;
-}
-
-#learn-more-section-6 {
-  background-color: #7c361b;
-}
-
 .learn-more-section-img {
   width: 100%;
+  height: 100%;
+  object-fit: contain;
+  max-width: 295px;
+  min-width: 270px;
 }
 
 .learn-more-item {
@@ -2100,7 +2082,6 @@ a:hover {
   transform: scale(1.2);
 }
 
-
 @media screen and (max-width: 567px) {
   .text__row {
     flex-direction: column;
@@ -2123,10 +2104,10 @@ a:hover {
   font-size: 1.5rem;
 }
 
-.camp-details{
+.camp-details {
   margin: 4rem 0;
 }
-.camp-row{
+.camp-row {
   position: relative;
   padding-left: 4rem;
   display: grid;
@@ -2134,11 +2115,9 @@ a:hover {
   grid-gap: 2rem;
   align-items: center;
   width: 100%;
-
 }
 
-
-.camp-row .yss-button{
+.camp-row .yss-button {
   margin: 1rem auto;
   width: 222px;
 }
@@ -2148,8 +2127,8 @@ a:hover {
   padding: 0;
 }
 
-.camp-row:before{
-  content: '';
+.camp-row:before {
+  content: "";
   display: block;
   width: 5px;
   height: 5px;
@@ -2158,16 +2137,16 @@ a:hover {
   position: absolute;
   left: 2rem;
 }
-@media screen and (max-width: 767px){
-  .camp-row{
+@media screen and (max-width: 767px) {
+  .camp-row {
     grid-template-columns: 1fr;
     padding-left: 2rem;
     margin: 1rem 0;
   }
-  .camp-row:before{
+  .camp-row:before {
     display: none;
   }
-  .camp-row .yss-button{
+  .camp-row .yss-button {
     margin: 0rem auto 1rem;
   }
   .camp-row .text-left {
@@ -2175,7 +2154,7 @@ a:hover {
   }
 }
 
-.small-box{
+.small-box {
   max-width: 500px;
   margin: 2rem auto;
 }
