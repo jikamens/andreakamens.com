@@ -1203,6 +1203,18 @@ ul {
   margin: 30px 0px;
 }
 
+#learn-more-section-3 {
+  object-fit: cover;
+}
+
+#learn-more-section-4 {
+  object-fit: cover;
+}
+
+#learn-more-section-5 {
+  object-fit: cover;
+}
+
 .indent {
   margin-left: 50px;
 }
