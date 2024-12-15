@@ -39,6 +39,10 @@ h2 {
   font-size: 3.5rem;
 }
 
+#bannerContent h5 a {
+    text-decoration: underline;
+}
+
 .content {
   padding-top: 150px;
 }
